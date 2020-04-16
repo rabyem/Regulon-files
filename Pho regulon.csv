@@ -1,0 +1,111 @@
+Gene,Locus tag,Effect
+SCJ4.14c,SCO0033,Activated
+SCJ4.15,SCO0034,Activated
+narG2,SCO0216,Activated
+narH2,SCO0217,Activated
+SCF20.01c,SCO0255,Repressed
+katA,SCO0379,Activated
+SCG11A.27c,SCO1196,Activated
+ureA,SCO1236,Repressed
+SC1A8A.14,SCO1394,Activated
+rpoZ,SCO1478,Repressed
+glpQ1,SCO1565 ,Activated
+pitH2,SCO1845 ,Activated
+SCI7.24c,SCO1906,Activated
+glpQ2,SCO1968,Activated
+phoD,SCO2068 ,Activated
+bfr,SCO2113,Activated
+qcrA,SCO2148,Activated
+SC6G10.22c,SCO2149,Activated
+SC6G10.23c,SCO2150,Activated
+SC6G10.24c,SCO2151,Repressed
+cox1,SCO2155,Activated
+cox,SCO2156,Activated
+glnA,SCO2198,Repressed
+SC10B7.02,SCO2207,Repressed
+glnII,SCO2210 ,Repressed
+SC10B7.12,SCO2217,Repressed
+SCC75A.08c,SCO2262,Repressed
+SCC75A.09,SCO2263,Repressed
+PhoA,SCO2286 ,Activated
+hrdA,SCO2465 ,Repressed
+SC7A8.05,SCO2466,Repressed
+SCC88.05c,SCO2594,Repressed
+SCE6.15,SCO2878,Activated
+SCE8.09,SCO3216,Activated
+SCH63.37c,SCO3790,Activated
+SCH63.38,SCO3791,Activated
+pstS,SCO4142 ,Activated
+ppk,SCO4145,Activated
+SCD84.19,SCO4152,Activated
+glnR,SCO4159 ,Repressed
+gpmA,SCO4209,Activated
+PhoU,SCO4228  ,Activated
+PhoR,SCO4229,Activated
+PhoP,SCO4230,Regulator
+SCD49.02c,SCO4261,Repressed
+afsS,SCO4425 ,Activated
+nuoA,SCO4562,Repressed
+nuoB,SCO4563,Repressed
+nuoC,SCO4564,Repressed
+nuoD,SCO4565,Repressed
+nuoE,SCO4566,Repressed
+nuoF,SCO4567,Repressed
+nuoG,SCO4568,Repressed
+nuoH,SCO4569,Repressed
+nuoI,SCO4570,Repressed
+nuoJ,SCO4571,Repressed
+nuoK,SCO4572,Repressed
+nuoL,SCO4573,Repressed
+nuoM,SCO4574,Repressed
+nuoN,SCO4575,Repressed
+dhsB,SCO4855,Repressed
+SC5G8.25c,SCO4857,Repressed
+SC5G8.26c,SCO4858,Repressed
+SCK20.13c,SCO4872,Activated
+SCK20.14c,SCO4873,Activated
+SCK20.15,SCO4874,Activated
+2SCK8.01,SCO4875,Activated
+2SCK8.02,SCO4876,Activated
+2SCK8.03c,SCO4877,Activated
+2SCK8.04c,SCO4878,Activated
+2SCK8.05,SCO4879,Activated
+2SCK8.06,SCO4880,Activated
+2SCK8.07,SCO4881,Activated
+2SCK8.08,SCO4882,Activated
+narG3,SCO4947,Activated
+narH3,SCO4948,Activated
+narJ3,SCO4949,Activated
+narI3,SCO4950,Activated
+ahpC,SCO5032,Activated
+bldKA,SCO5112,Repressed
+bldKB,SCO5113,Repressed
+bldKC,SCO5114,Repressed
+bldKD,SCO5115,Repressed
+bldKE,SCO5116,Repressed
+atpI,SCO5366,Repressed
+atpB,SCO5367,Repressed
+atpE,SCO5368,Repressed
+atpf,SCO5369,Repressed
+atpH,SCO5370,Repressed
+atpA,SCO5371,Repressed
+atpG,SCO5372,Repressed
+atpD,SCO5373,Repressed
+atpC,SCO5374,Repressed
+SC3D11.04c,SCO5447,Activated
+SC2A11.10,SCO5476,Repressed
+SC2A11.11,SCO5477,Repressed
+SC2A11.12,SCO5478,Repressed
+SC2A11.13,SCO5479,Repressed
+SC2A11.14,SCO5480,Repressed
+amtB,SCO5583 ,Repressed
+SCO5822,SCO5822,Repressed
+SC1C3.09,SCO6021,Activated
+SC1C3.10,SCO6022,Activated
+SC1C3.11,SCO6023,Activated
+SC1C3.12,SCO6024,Activated
+SC1C3.13,SCO6025,Activated
+narH,SCO6534,Activated
+narG,SCO6535,Activated
+SC10F4.03,SCO7630,Activated
+SC1A4.05,SCO7697,Activated
